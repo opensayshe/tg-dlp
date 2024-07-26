@@ -11,8 +11,8 @@ Follow these steps to set up the project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yt-dlp-telegram-bot.git
-   cd yt-dlp-telegram-bot
+   git clone https://github.com/opensayshe/tg-dlp.git
+   cd tg-dlp
    ```
 
 2. **Install the required dependencies:**
@@ -33,7 +33,7 @@ Follow these steps to set up the project:
 5. **Run the bot:**
    Start the bot by running the main script:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 6. **Interact with your bot:**
